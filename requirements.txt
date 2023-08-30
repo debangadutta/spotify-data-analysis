@@ -1,3 +1,4 @@
 spotipy
 pandas
 s3fs
+apache-airflow
